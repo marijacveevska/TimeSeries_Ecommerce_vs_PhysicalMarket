@@ -1,5 +1,6 @@
 # Forecasting the Superior Fit for Business Growth: E-commerce vs. Physical Market
-Time Series Analysis
+Time Series Analysis in R Language.
+Dataset - Combined data sources from census.gov and statista.com
 
 ## Outline
 1. [Preprocessing the Data](#1-preprocessing-the-data)
