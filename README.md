@@ -1,6 +1,5 @@
 # Forecasting the Superior Fit for Business Growth: E-commerce vs. Physical Market
 Time Series Analysis in R Language.
-Dataset - Combined data sources from census.gov and statista.com
 
 ## Outline
 1. [Preprocessing the Data](#1-preprocessing-the-data)
@@ -51,4 +50,6 @@ Based on the model testing phase, the following models were selected for forecas
   - **Forecasted Sales (2027)**: $559,325
   - **Growth (2022-2027)**: 84.5%
 
-This project demonstrates the effective application of different time series and regression models to forecast sales in E-commerce and Physical Markets. The insights derived can guide strategic decision-making and business growth planning.
+This project demonstrates the effective application of different time series and regression models to forecast sales in E-commerce and Physical Markets. The insights derived can guide strategic decision-making and business growth planning.\
+
+Dataset - Combined data sources from census.gov and statista.com
