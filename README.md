@@ -52,5 +52,5 @@ Based on the model testing phase, the following models were selected for forecas
 
 This project demonstrates the effective application of different time series and regression models to forecast sales in E-commerce and Physical Markets. The insights derived can guide strategic decision-making and business growth planning.\
 
-Dataset - Combined data sources from census.gov and statista.com
+Dataset - Combined data sources from census.gov and statista.com \
 Team Members: MARIJA CVEEVSKA | SULEYMAN ERIM | JOAN ORELLANA RIO
